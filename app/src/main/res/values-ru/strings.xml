@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_btn">Отправить</string>
+    <string name="creation_name">Имя</string>
+    <string name="creation_name_hint">Введите имя</string>
+    <string name="creation_phone_number">Номер телефона</string>
+    <string name="creation_phone_number_hint">Введите номер телефона</string>
+    <string name="creation_create">Создать</string>
+    <string name="creation_update">Обновить</string>
+    <string name="chat_enter_message_hint">Введите текст сообщение</string>
+    <string name="home_empty_contacts">Пустой спиок контактов</string>
+    <string name="creation_message_success">Контакт создан</string>
+    <string name="creation_message_update_success">Контакт обновлен</string>
+</resources>

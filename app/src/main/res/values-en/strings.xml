@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="creation_name">Name:</string>
+    <string name="action_btn">Send</string>
+    <string name="creation_name_hint">Enter name</string>
+    <string name="creation_phone_number">Phone number</string>
+    <string name="creation_phone_number_hint">Enter phone number</string>
+    <string name="creation_create">Create</string>
+    <string name="creation_update">Update</string>
+    <string name="chat_enter_message_hint">Enter text message</string>
+    <string name="home_empty_contacts">Empty contacts list</string>
+    <string name="creation_message_success">Contact created</string>
+    <string name="creation_message_update_success">Contact updated</string>
+</resources>
